@@ -9,7 +9,7 @@ I am Chi Tong, a Math and Computer Science undergraduate at Yale. I am intereste
 
 This blog will focus on my research interests, such as some topics I explored during the summer at New Haven: Subcubic equivalences of graph and Quantum Computing, and (maybe) my senior project. 
 
-
+You can contact me at hienchi19 [at] gmail [dot] com.
 
 
 <!-- %You can find the source code for Minima at GitHub:
